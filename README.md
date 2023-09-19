@@ -5,4 +5,4 @@
 乔木处理器是一个开源的64位的超标量RISC-V处理器。
 
 # 处理器架构
- [乔木架构](https://github.com/ycx122/qiaomu-risc-v/blob/main/picture/cpu.jpg)
+ ![乔木架构](https://github.com/ycx122/qiaomu-risc-v/blob/main/picture/cpu.jpg)
